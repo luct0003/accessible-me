@@ -114,7 +114,7 @@ nav li a:active{
   position: absolute;
   top:-50em;
   }
-  .skiplinks a:focus{
+.skiplinks a:focus{
     top:0;
     background: azure;
     display: block;
